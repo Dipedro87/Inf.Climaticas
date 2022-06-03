@@ -11,7 +11,7 @@ function KelvinToCelcius (t){
 }
 
 {
-    var key = '568cd470173cc52812085076777f456a'
+    var key = '. . .'
 }
 var lat = -22.84;
 var lon = -43.31;
